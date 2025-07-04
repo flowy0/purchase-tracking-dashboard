@@ -101,6 +101,12 @@ uv run python main.py api
 - Dual-page interface: Analytics + Tabular views
 - Data export capabilities
 
+
+## Sample Screenshots
+
+![alt text](dashboard-sample.png)
+
+
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
