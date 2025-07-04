@@ -1,0 +1,15 @@
+[project]
+name = "purchase-tracker"
+version = "0.1.0"
+description = "Purchase tracking application with DuckDB and Streamlit dashboard"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "duckdb>=0.10.0",
+    "polars>=0.20.0",
+    "fastapi>=0.110.0",
+    "uvicorn>=0.29.0",
+    "streamlit>=1.32.0",
+    "plotly>=5.19.0",
+    "python-multipart>=0.0.9",
+]
